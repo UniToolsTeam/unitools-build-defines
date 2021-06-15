@@ -1,0 +1,21 @@
+{
+  "displayName": "UniTools.Build.Defines",
+  "name": "com.unitools.build.defines",
+  "version": "0.0.0",
+  "unity": "2019.1",
+  "description": "TODO",
+  "keywords": [
+    "unity",
+    "unity3d",
+    "cli",
+    "CI",
+    "CD",
+    "C#"
+  ],
+  "category": "Libraries",
+  "type": "library",
+  "dependencies": {
+    "com.unitools.build": "0.0.0",
+    "com.unitools.defines": "0.0.0"
+  }
+}
