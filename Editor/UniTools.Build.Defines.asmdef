@@ -1,0 +1,19 @@
+{
+    "name": "UniTools.Build.Defines",
+    "rootNamespace": "UniTools.Build.Defines",
+    "references": [
+        "GUID:d94495eb8c16444dea063a3605506bac",
+        "GUID:95b5a3b02e22342e6b7330b4923eaf71"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
