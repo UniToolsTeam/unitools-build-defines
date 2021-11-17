@@ -13,7 +13,7 @@ namespace UniTools.Build
     public sealed class ScriptableBuildStepWithDefines : ScriptableBuildStep
     {
         [SerializeField] private ScriptableBuildStep m_successor = default;
-        [SerializeField] private BaseScriptingDefineSymbols m_symbols = default;
+        [SerializeField] private ScriptingDefineSymbols m_symbols = default;
 
         public override BuildTarget Target => m_successor.Target;
 
