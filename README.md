@@ -1,3 +1,5 @@
+# This tool is legacy and not supported anymore, please use [UniTools Build](https://github.com/UniToolsTeam/unitools-build)
+
 # UniTools Build Defines
 Steps to build a project with a custom defines set.
 
